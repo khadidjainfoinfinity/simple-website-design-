@@ -174,22 +174,6 @@ header .logo{
   box-shadow:  none;
  }
  
- 
-  @media( max-width: 768px){
-     .home{
-   padding: 20px;
- }
- 
-.home img{
-  position:  relative;
-  width:  300px;
-  right:  50px;
-} 
- .home .content-box{
-   margin-top:  60px;
-   padding:  10px;
- }
- 
  .home .content-box h1,
  .services-content h1{
    margin:  20px 0;
@@ -198,7 +182,7 @@ header .logo{
  
   }
  
-  @media( max-width: 480px){
+  @media( max-width: 830px){
      .home{
    padding: 20px;
    display:  flex;
@@ -327,7 +311,7 @@ header .logo{
  }
  
  .services-cards{
-   gap: 30px;
+   gap: 50px;
  }
 
   }
@@ -394,7 +378,7 @@ header .logo{
  }
  
  
-  @media( max-width: 500px){
+  @media( max-width: 600px){
 
    .experience-content{
    border-radius: 0;
@@ -489,7 +473,7 @@ header .logo{
     width:  280px;
   }
   
- @media( max-width: 500px){
+ @media( max-width: 592px){
    .projects{
      padding:  0 20px;
    }
@@ -552,7 +536,7 @@ header .logo{
   
    @media( max-width: 768px){
      .contact img{
-       width: 240;
+       width: 230;
      }
    }
     @media( max-width: 640px){
