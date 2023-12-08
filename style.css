@@ -124,13 +124,6 @@ header .logo{
    position:  relative;
  }
  
-.home img{
-  position:  absolute;
-  width:  360px;
-  right:  50px;
-  
-} 
- 
  
  .home .content-box{
    margin-top:  60px;
@@ -190,13 +183,7 @@ header .logo{
    justify-content: center;
    align-items:  center;
  }
- 
-.home img{
-  position: relative;
-  width:  300px;
-  text-align:  center;
-} 
- 
+
  
  .home .content-box{
    margin-top:  20px;
